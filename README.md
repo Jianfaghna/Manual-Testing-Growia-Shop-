@@ -19,7 +19,7 @@ The test-cases directory contains a collection of test cases written for differe
 
 - Test case ID
 - Test case description
-- Pre-requisites
+- Pre-condition
 - Test steps
 - Expected results
 - Actual results 
