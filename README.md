@@ -1,5 +1,5 @@
 
-# Manual Testing (Test Cases with Scenarios, Mindmaps, Reports & Test Metrics)
+# Manual Testing (Test Cases with Scenarios, Reports & Test Metrics)
 
 This repository contains test cases, scenarios, reports, and test metrics for manual testing projects. It serves as a comprehensive resource for manual testers to effectively plan, execute, and track their testing efforts.
 
